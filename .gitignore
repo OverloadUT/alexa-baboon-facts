@@ -1,3 +1,10 @@
+# Project Specific
+sample-utterances.txt
+
+# Grunt AWS Lambda
+dist
+event.json
+
 # Logs
 logs
 *.log
